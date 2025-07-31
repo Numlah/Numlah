@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nusaiba Muhammad Lawan</h1>
-<h3 align="center">Frontend Developer in Progress | PLP Academy Member | Passionate Learner</h3>
+<h3 align="center">Web Developer in Progress | PLP Academy Member | Passionate Learner</h3>
 
 ---
 
@@ -42,8 +42,9 @@
 ### 📫 Connect With Me
 
 - 📧 Email: **nusaibamuhd1223@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/nusaiba-muhammad)
-- 💻 GitHub: [github.com/YourUsername](https://github.com/Numlah)
+- 💼 Linkedin: [(https://www.linkedin.com/in/nusaiba-muhammad](https://www.linkedin.com/in/nusaiba-muhammad)
+- 💻 GitHub: [github.com/Numlah](https://github.com/Numlah)
+- 📱 Phone: **+234 906 462 0914**
 
 ---
 
